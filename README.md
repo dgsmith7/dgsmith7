@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div style="background-color:rgb(0, 0, 0); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
 <a href="/blog">VIEW THE BLOG</a>
 <div style="z-index: 1; position: absolute; top: 0; left: 0">Hello</div>
-<img style="z-index: -1; position: absolute; top: 0; left: 0" alt="Awesome GitHub Profile Readme" src="assets/face.gif"></img>
+<img style="z-index: -1; position: absolute; top: 0; left: 0" alt="Awesome GitHub Profile Readme" src="assets/pic.png"></img>
 </div>
 
 <span style="color:red">some *red* text</span>
