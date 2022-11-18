@@ -14,6 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!--div style="background-color:rgba(1, 0, 200, 0.470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<a href="/donate">DONATE</a>
+</div-->
+<div style="background-color:rgb(0, 0, 0); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+<a href="/blog">VIEW THE BLOG</a>
+<div style="z-index: 1; position: absolute; top: 0; left: 0">Hello</div>
+<img style="z-index: -1; position: absolute; top: 0; left: 0" alt="Awesome GitHub Profile Readme" src="assets/face.gif"></img>
+</div>
+
+<span style="color:red">some *red* text</span>
+
+
+
+
+
+
+
+<!--div>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+</div -->
 Top languages:
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&theme=tokyonight)
 Stats overview:
@@ -27,15 +50,6 @@ Show number of profile visitors
 
 
 
----  pre gen below  -----
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgsmith7&label=Profile%20views&color=0e75b6&style=flat" alt="dgsmith7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgsmith7" alt="dgsmith7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dgsmith7" target="blank"><img src="https://img.shields.io/twitter/follow/dgsmith7?logo=twitter&style=for-the-badge" alt="dgsmith7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
