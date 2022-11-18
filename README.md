@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **dgsmith7/dgsmith7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Top languages:
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=tokyonight)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&theme=tokyonight)
 Stats overview:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&show_icons=true)  
 Commit history
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=username)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)  
 Pin more than 6 repos:
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=StruttClock)]
 Show number of profile visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
