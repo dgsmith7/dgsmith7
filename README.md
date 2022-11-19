@@ -99,5 +99,5 @@ And now here is a more recent experience, web-friendly, mobile-ready, and respon
 https://dgsmith7.github.io/sliding-tile-puzzle/
 
 ## Thanks for looking at my repo.   
-## Don't forget to enjoy yourself and treat others well 😎:
+## Don't forget to treat yourself and others with kindness and compassion. 😎:
 <img style="z-index: -1; position: absolute; top: 0; left: 0" alt="Awesome GitHub Profile Readme" src="assets/face.gif">
