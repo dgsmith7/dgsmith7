@@ -80,9 +80,9 @@ Contact me for details and discussion.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)](https://github.com/dgsmith7/AdventurePartyInheritanceDemo)
 
 ## Some Stats about my Github account:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&count_private=true&show_icons=true)](https://github.com/dgsmith7/#user-activity-overview)
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)](https://github.com/dgsmith7/#user-activity-overview)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)](https://github.com/dgsmith7/#user-activity-overview)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&count_private=true&show_icons=true)](https://github.com/dgsmith7/#year-list-container)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)](https://github.com/dgsmith7/#year-list-container)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)](https://github.com/dgsmith7/#year-list-container)
 
 ## Connect with me:
 <a href="https://twitter.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dgsmith7" height="30" width="40" /></a>
