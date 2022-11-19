@@ -16,16 +16,7 @@ for my personal website and contact info, especially if you are interested in a 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://threejs.org" target="_blank" rel="noreferrer" style="background-color: white"><svg fill="none" stroke-linecap="square" stroke-miterlimit="10" version="1.1" viewBox="0 0 226.77 226.77" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(8.964 4.2527)" fill-rule="evenodd" stroke="#888" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4">
-  <path d="m63.02 200.61-43.213-174.94 173.23 49.874z"/>
-  <path d="m106.39 50.612 21.591 87.496-86.567-24.945z"/>
-  <path d="m84.91 125.03-10.724-43.465 43.008 12.346z"/>
-  <path d="m63.458 38.153 10.724 43.465-43.008-12.346z"/>
-  <path d="m149.47 62.93 10.724 43.465-43.008-12.346z"/>
-  <path d="m84.915 125.06 10.724 43.465-43.008-12.346z"/>
- </g>
-</svg> <!--img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="git" width="40" height="40"/--> </a> 
+<a href="https://threejs.org" target="_blank" rel="noreferrer" style="background-color: white"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="git" width="40" height="40"> </a> 
 
 #### I know these pretty well (moderate experience but plenty to learn):
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
