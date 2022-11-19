@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&show_icons=true&theme=transparent)
 ## Some facts about me:
 I write code because I enjoy it, and it fulfills my need to be creative.  It is something that comes naturally to me 
 and an activity that I have enjoyed since I was in high school (a long time). I began writing in Apple BASIC on an 
