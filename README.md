@@ -1,14 +1,9 @@
 ## Some facts about me:
-I write code because I enjoy it, and it fulfills my need to be creative.  It is something that comes naturally to me 
-and an activity that I have enjoyed since I was in high school (a long time). I began writing in Apple BASIC on an 
-Apple //c  in 1985.  For an old-school 80s experience GOTO the bottom of this page.  I spent a couple of decades flying 
-helicopters in the Army and the Coast Guard.  Then I got an Art degree.  Now I write code, teach, and make art.  I do 
-full-stack web development, build creative projects (usually with graphics and animation), and generally pursue my 
-interests and inexhaustible thirst for new knowledge.  Luckily the tech world provides and endless horizon of things 
-to learn, which suits my life-long-learner disposition very well.  I also do private tutoring because I love teaching!  
-See links on the left for my personal website and contact info, especially if you are interested in a custom project 
-or private tutoring. I accept certain cryptocurrencies for payment if you desire, and of course, normal fiat currency.  
-Contact me for details and discussion.
+I write code because I enjoy it, and it fulfills my need to be creative.  It is something that comes naturally to me and an activity that I have enjoyed since I was in high school (a long time). I began writing in Apple BASIC on an Apple //c  in 1985.  For an old-school 80s experience GOTO the bottom of this page.  Then I spent a couple of decades flying helicopters in the Army and the Coast Guard.  And then I got an Art degree.  Now I write code, teach, and make art.  
+
+I do full-stack web development, build creative projects (usually with graphics and animation), and generally pursue my interests and inexhaustible thirst for new knowledge.  Luckily the tech world provides and endless horizon of things to learn, which suits my life-long-learner disposition very well.  I also do private tutoring because I love teaching!  
+
+See links on the left for my personal website and contact info, especially if you are interested in a custom project or private tutoring. I accept certain cryptocurrencies for payment if you desire, and of course, normal fiat currency. Contact me for details and discussion.
 
 ## Here are some of the tools I use for my projects:
 #### I know these well (solid experience level):
