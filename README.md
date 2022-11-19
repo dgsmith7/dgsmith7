@@ -18,7 +18,10 @@ Contact me for details and discussion.
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://threejs.org" target="_blank" rel="noreferrer" style="background-color: white"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="git" width="40" height="40"> </a> 
+<a href="https://threejs.org" target="_blank" rel="noreferrer" style="background-color: white"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three js" width="40" height="40"> </a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer" style="background-color: white"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a> 
+<a href="https://jquery.com" target="_blank" rel="noreferrer" style="background-color: white"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"> </a> 
+<a href="https://processing.org" target="_blank" rel="noreferrer" style="background-color: white"><img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"> </a>
 
 #### I know these pretty well (moderate experience but plenty to learn):
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -30,7 +33,20 @@ Contact me for details and discussion.
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> </a> 
+<a href="https://intellij-support.jetbrains.com/hc/en-us" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intelli j" width="40" height="40"/> </a> 
+<a href="https://www.sublimetext.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" alt="sublime" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongo db" width="40" height="40"/> </a> 
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
+<a href="https://tomcat.apache.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/> </a> 
+<a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/> </a> 
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://ethereum.org/static/4f10d2777b2d14759feb01c65b2765f7/69ce7/eth-glyph-colored.webp" alt="ethereum" width="40" height="40"/> </a> 
+<a href="https://polygon.technology" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/> </a>
+<a href="https://moralis.io" target="_blank" rel="noreferrer"> <img src="https://moralis.io/wp-content/uploads/2021/01/logo.png" alt="moralis" width="40" height="40"/> </a> 
+<a href="https://metamask.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" alt="metamask" width="40" height="40"/> </a> 
+<a href="https:wordpress.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
 
 #### These are ones I am learning about (some experience, experimenting and learning):
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -38,6 +54,14 @@ Contact me for details and discussion.
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://digitalocean.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="digital ocean" width="40" height="40"/> </a>
+<a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
+<a href="https://remix.ethereum.org" target="_blank" rel="noreferrer"> <img src="https://moonbeam.network/wp-content/uploads/2021/10/remix-500.png" alt="remix" width="40" height="40"/> </a> 
+<a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer"> <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/> </a> 
+<a href="https://www.pinata.cloud" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/286025/pinata.svg" alt="pinata" width="40" height="40"/> </a> 
+<a href="https://www.openzeppelin.com" target="_blank" rel="noreferrer"> <img src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" alt="open zeppelin" width="40" height="40"/> </a> 
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> 
 
 ## Featured Project Repositories:
 ![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)
