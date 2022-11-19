@@ -84,7 +84,6 @@ Contact me for details and discussion.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)
 
-
 ## Connect with me:
 <a href="https://twitter.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dgsmith7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david-gail-smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-gail-smith" height="30" width="40" /></a>
