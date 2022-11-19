@@ -66,18 +66,18 @@ Contact me for details and discussion.
 <a href="https://chain.link" target="_blank" rel="noreferrer" title="Chainlink"> <img src="https://seeklogo.com/images/C/chainlink-link-logo-FB38A5933B-seeklogo.com.png" alt="firebase" width="40" height="40"/> </a> 
 
 ## Featured Project Repositories:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=StruttClock)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=ParametricAurora)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=machine-demo)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=dataToTerrain3d)
-//&bg_color=DEG,COLOR1,COLOR2,COLOR3
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)](https://github.com/dgsmith7/sliding-tile-puzzle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=StruttClock)](https://github.com/dgsmith7/StruttClock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)](https://github.com/dgsmith7/censusBureauDataVis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=ParametricAurora)](https://github.com/dgsmith7/ParametricAurora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=machine-demo)](https://github.com/dgsmith7/machine-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=dataToTerrain3d)](https://github.com/dgsmith7/dataToTerrain3d)
+
 ## Here is some more educational or template-related material:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=threeJS-simpleBoilerplate)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=LearningCobol)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Concrete-Abstract-Interface-Demo)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=threeJS-simpleBoilerplate)](https://github.com/dgsmith7/threeJS-simpleBoilerplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=LearningCobol)](https://github.com/dgsmith7/LearningCobol)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Concrete-Abstract-Interface-Demo)](https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)](https://github.com/dgsmith7/AdventurePartyInheritanceDemo)
 
 ## Some Stats about my Github account:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&count_private=true&show_icons=true)
