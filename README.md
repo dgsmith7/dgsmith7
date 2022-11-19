@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&show_icons=true&theme=transparent)
 ## Some facts about me:
 I write code because I enjoy it, and it fulfills my need to be creative.  It is something that comes naturally to me 
 and an activity that I have enjoyed since I was in high school (a long time). I began writing in Apple BASIC on an 
@@ -79,9 +78,9 @@ Contact me for details and discussion.
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)
 
 ## Some Stats about my Github account:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmiyh7&count_private=true&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmiyh7&count_private=true&show_icons=true&theme=transparent)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8&theme=transparent)
 
 
 ## Connect with me:
