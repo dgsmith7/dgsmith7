@@ -85,12 +85,12 @@ Contact me for details and discussion.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)](https://github.com/dgsmith7/#year-list-container)
 
 ## Excellent Learning Resources that I recommend:
-<a href="https://www.nand2tetris.org" target="blank"><img align="center" src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_415,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png" alt="nand 2 tetris" height="40" width="150" /></a>
-<a href="https://processing.org" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" height="40" width="40" /></a>
-<a href="https://shiffman.net/learning/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/191758?v=4" alt="Shiffman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg/feed" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu-P5fkM6PJNLkqoy6U3y_J0sT9CVH0R_oZIP0Jo=s88-c-k-c0x00ffffff-no-rj" alt="Martijn" height="30" width="40" /></a>
-<a href="https://thebookofshaders.com" target="blank"><img align="center" src="https://thebookofshaders.com/thumb.png" alt="Book of Shaders" height="40" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s88-c-k-c0x00ffffff-no-rj" alt="Patrick Collins" height="40" width="40" /></a>
+<a href="https://www.nand2tetris.org" title="Nand2Tetris" target="blank"><img align="center" src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_415,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png" alt="nand 2 tetris" height="50" width="180" /></a>
+<a href="https://processing.org" title="Processing" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" height="50" width="50" /></a>
+<a href="https://shiffman.net/learning/" title="Daniel Shiffman" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/191758?v=4" alt="Shiffman" height="50" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg/feed" title="Shaders - Art of Code" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu-P5fkM6PJNLkqoy6U3y_J0sT9CVH0R_oZIP0Jo=s88-c-k-c0x00ffffff-no-rj" alt="Martijn" height="50" width="50" /></a>
+<a href="https://thebookofshaders.com" title="Book of Shaders" target="blank"><img align="center" src="https://thebookofshaders.com/thumb.png" alt="Book of Shaders" height="50" width="50" /></a>
+<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" title="Patrick Collins" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s88-c-k-c0x00ffffff-no-rj" alt="Patrick Collins" height="50" width="50" /></a>
 
 ## Connect with me:
 <a href="https://twitter.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dgsmith7" height="30" width="40" /></a>
