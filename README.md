@@ -5,7 +5,7 @@ Apple //c  in 1985.  For an old-school 80s experience GOTO the bottom of this pa
 helicopters in the Army and the Coast Guard.  Then I got an Art degree.  Now I write code, teach, and make art.  I do 
 full-stack web development, build creative projects (usually with graphics and animation), and generally pursue my 
 interests and inexhaustible thirst for new knowledge.  Luckily the tech world provides and endless horizon of things 
-to learn, which suits my life-long student disposition very well.  I also do private tutoring because I love teaching!  
+to learn, which suits my life-long-learner disposition very well.  I also do private tutoring because I love teaching!  
 See links on the left for my personal website and contact info, especially if you are interested in a custom project 
 or private tutoring. I accept certain cryptocurrencies for payment if you desire, and of course, normal fiat currency.  
 Contact me for details and discussion.
@@ -44,24 +44,26 @@ Contact me for details and discussion.
 <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer" title="Raspberry Pi"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" title="Ethereum"> <img src="https://ethereum.org/static/4f10d2777b2d14759feb01c65b2765f7/69ce7/eth-glyph-colored.webp" alt="ethereum" width="40" height="40"/> </a> 
 <a href="https://polygon.technology" target="_blank" rel="noreferrer" title="Polygon"> <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/> </a>
-<a href="https://moralis.io" target="_blank" rel="noreferrer" title="Moralis"> <img src="https://moralis.io/wp-content/uploads/2021/01/logo.png" alt="moralis" width="40" height="40"/> </a> 
+<a href="https://moralis.io" target="_blank" rel="noreferrer" title="Moralis"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/xi2ibotrclcxf9njqrfm" alt="moralis" width="40" height="40"/> </a> 
 <a href="https://metamask.io" target="_blank" rel="noreferrer" title="Metamask"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" alt="metamask" width="40" height="40"/> </a> 
-<a href="https:wordpress.com" target="_blank" rel="noreferrer" title="Wordpress"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
+<a href="https://wordpress.com" target="_blank" rel="noreferrer" title="Wordpress"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
+<a href="https://maven.apache.org" target="_blank" rel="noreferrer" title="Maven"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYUtSxcmnj-nxImUJNR8jWAufOhjc-BwUlr83yUYM_1iifqv3t0hUJR2VJ_HAnHvhxsU&usqp=CAU" alt="wordpress" width="40" height="40"/> </a>
 
 #### These are ones I am learning about (some experience, experimenting and learning):
 <a href="https://angular.io" target="_blank" rel="noreferrer" title="Angular"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer" title="Kubernetes"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express"> <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40"/> </a> 
 <a href="https://digitalocean.com" target="_blank" rel="noreferrer" title="Digital Ocean"> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="digital ocean" width="40" height="40"/> </a>
-<a href="https://soliditylang.org" target="_blank" rel="noreferrer" title="Solidity"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
-<a href="https://remix.ethereum.org" target="_blank" rel="noreferrer" title="Ethereum"> <img src="https://moonbeam.network/wp-content/uploads/2021/10/remix-500.png" alt="remix" width="40" height="40"/> </a> 
+<a href="https://soliditylang.org" target="_blank" rel="noreferrer" title="Solidity"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEKqTxDFyI0s_kylUF73gFRXBqViXmDwZWg&usqp=CAU" alt="solidity" width="40" height="40"/> </a> 
+<a href="https://remix-project.org" target="_blank" rel="noreferrer" title="Ethereum"> <img src="https://remix-project.org/static/media/remi-icon.7b98f159e0a60d36c98bee595cfaba46.svg" alt="remix" width="40" height="40"/> </a> 
 <a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer" title="Ganache"> <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/> </a> 
 <a href="https://www.pinata.cloud" target="_blank" rel="noreferrer" title="Pinata"> <img src="https://www.svgrepo.com/show/286025/pinata.svg" alt="pinata" width="40" height="40"/> </a> 
 <a href="https://www.openzeppelin.com" target="_blank" rel="noreferrer" title="Open Zeppelin"> <img src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" alt="open zeppelin" width="40" height="40"/> </a> 
 <a href="https://www.figma.com" target="_blank" rel="noreferrer" title="Figma"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com" target="_blank" rel="noreferrer" title="Firebase"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://chain.link" target="_blank" rel="noreferrer" title="Chainlink"> <img src="https://seeklogo.com/images/C/chainlink-link-logo-FB38A5933B-seeklogo.com.png" alt="firebase" width="40" height="40"/> </a> 
 
 ## Featured Project Repositories:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)
@@ -78,9 +80,9 @@ Contact me for details and discussion.
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)
 
 ## Some Stats about my Github account:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmiyh7&count_private=true&show_icons=true&theme=transparent)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&count_private=true&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)
 
 
 ## Connect with me:
