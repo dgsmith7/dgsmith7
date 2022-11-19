@@ -21,7 +21,7 @@ Contact me for details and discussion.
 <a href="https://threejs.org" target="_blank" rel="noreferrer" title="ThreeJS"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three js" width="40" height="40"> </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="Java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a> 
 <a href="https://jquery.com" target="_blank" rel="noreferrer" title="JQuery"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"> </a> 
-<a href="https://processing.org" target="_blank" rel="noreferrer" title="PRocessing"><img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"> </a>
+<a href="https://processing.org" target="_blank" rel="noreferrer" title="Processing"><img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"> </a>
 
 #### I know these pretty well (moderate experience but plenty to learn):
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
