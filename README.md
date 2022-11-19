@@ -71,22 +71,6 @@ https://archive.org/details/d361s2-uptime
 And now here is a more recent experience, web-friendly, mobile-ready, and responsive of the same game:
 https://dgsmith7.github.io/sliding-tile-puzzle/
 
+## Thanks for looking at my repo.  
 ## Don't forget to enjoy yourself and treat others well:
 <img style="z-index: -1; position: absolute; top: 0; left: 0" alt="Awesome GitHub Profile Readme" src="assets/face.gif">
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgsmith7&show_icons=true&locale=en&layout=compact" alt="dgsmith7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgsmith7&show_icons=true&locale=en" alt="dgsmith7" /></p>
-
