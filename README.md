@@ -32,34 +32,30 @@ for my personal website and contact info, especially if you are interested in a 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 
 #### These are ones I am learning about (some experience, experimenting and learning):
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 
 ## Featured Project Repositories:
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=StruttClock)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=ParametricAurora)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=machine-demo)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=dataToTerrain3d)]
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=StruttClock)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=ParametricAurora)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=machine-demo)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=dataToTerrain3d)
 
 ## Here is some more educational or template-related material:
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=threeJS-simpleBoilerplate)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=LearningCobol)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Concrete-Abstract-Interface-Demo)]
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)]
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=threeJS-simpleBoilerplate)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=LearningCobol)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Concrete-Abstract-Interface-Demo)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)
+
 ## Some Stats about my Github account:
-Top languages on this repo:
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&theme=tokyonight)
-Stats overview:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&show_icons=true)  
-Commit history
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)  
-Show number of profile visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ## Connect with me:
 <a href="https://twitter.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dgsmith7" height="30" width="40" /></a>
