@@ -61,7 +61,7 @@ Contact me for details and discussion.
 <a href="https://www.pinata.cloud" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/286025/pinata.svg" alt="pinata" width="40" height="40"/> </a> 
 <a href="https://www.openzeppelin.com" target="_blank" rel="noreferrer"> <img src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" alt="open zeppelin" width="40" height="40"/> </a> 
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" title="firebase"width="40" height="40"/> </a> 
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer" title="firebase" > <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> 
 
 ## Featured Project Repositories:
 ![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)
