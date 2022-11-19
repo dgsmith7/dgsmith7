@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="background-color: black">
 The background color should be `#ffffff` for light mode and `#000000` for dark mode.
 
 <!--div style="background-color:rgba(1, 0, 200, 0.470588); text-align:center; vertical-align: middle; padding:40px 0;">
@@ -66,3 +66,4 @@ Show number of profile visitors
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgsmith7&show_icons=true&locale=en" alt="dgsmith7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7&" alt="dgsmith7" /></p>
+</div>
