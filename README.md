@@ -95,7 +95,7 @@ See links on the left for my personal website and contact info, especially if yo
 ## The old-school experience mentioned above:
 Here is an archived link to something I wrote when I was 15.  Visit the link, then wait for emulator
 to boot the Apple //e virtual machine (just like the real Apple //c).  Then choose 1 on the main menu and 4 on the 
-next menu to launch "Enigma".  Turn on some 80s music to get he full effect:
+next menu to launch "Enigma".  Turn on some 80s music from a cassette player in the background to get the full effect:
 https://archive.org/details/d361s2-uptime
 And now here is a more recent experience, web-friendly, mobile-ready, and responsive of the same game:
 https://dgsmith7.github.io/sliding-tile-puzzle/
