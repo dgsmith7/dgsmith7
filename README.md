@@ -62,6 +62,7 @@ See links on the left for my personal website and contact info, especially if yo
 
 ## Featured Project Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)](https://github.com/dgsmith7/sliding-tile-puzzle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Weather.app)](https://github.com/dgsmith7/Weather.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=StruttClock)](https://github.com/dgsmith7/StruttClock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)](https://github.com/dgsmith7/censusBureauDataVis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=ParametricAurora)](https://github.com/dgsmith7/ParametricAurora)
