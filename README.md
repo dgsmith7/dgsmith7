@@ -66,13 +66,16 @@ See links on the left for my personal website and contact info, especially if yo
 <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer" title="Raspberry Pi"> <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer" title="Ruby"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://www.ibm.com/docs/en/i/7.1?topic=languages-cobol" target="_blank" rel="noreferrer" title="Cobol"> <img src="https://logodix.com/logo/2100252.jpg" alt="cobol" width="60" height="40"/> </a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="Java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a>
+<a href="https://www.ibm.com/docs/en/i/7.1?topic=languages-cobol" target="_blank" rel="noreferrer" title="Cobol"> <img src="https://logodix.com/logo/2100252.jpg" alt="cobol" width="60" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="Java"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://tomcat.apache.org" target="_blank" rel="noreferrer" title="Tomcat"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/> </a>
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer" title="Maven"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYUtSxcmnj-nxImUJNR8jWAufOhjc-BwUlr83yUYM_1iifqv3t0hUJR2VJ_HAnHvhxsU&usqp=CAU" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://intellij-support.jetbrains.com/hc/en-us" target="_blank" rel="noreferrer" title="IntelliJ"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intelli j" width="40" height="40"/> </a>
 
 ## Featured Project Repositories:
+
+<!-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)](https://github.com/dgsmith7/sliding-tile-puzzle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Weather.app)](https://github.com/dgsmith7/Weather.app)
@@ -81,8 +84,11 @@ See links on the left for my personal website and contact info, especially if yo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=machine-demo)](https://github.com/dgsmith7/machine-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=dataToTerrain3d)](https://github.com/dgsmith7/dataToTerrain3d)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)](https://github.com/dgsmith7/censusBureauDataVis)
+-->
 
 ## Here is some more educational or template-related material:
+
+<!-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=threeJS-simpleBoilerplate)](https://github.com/dgsmith7/threeJS-simpleBoilerplate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=LearningCobol)](https://github.com/dgsmith7/LearningCobol)
@@ -94,21 +100,22 @@ See links on the left for my personal website and contact info, especially if yo
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&count_private=true&show_icons=true)](https://github.com/dgsmith7/#year-list-container)
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)](https://github.com/dgsmith7/#year-list-container)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)](https://github.com/dgsmith7/#year-list-container)
+-->
 
 ## Excellent Learning Resources that I recommend:
 
-<a href="https://www.nand2tetris.org" title="Nand2Tetris" target="blank"><img align="center" src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_415,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png" alt="nand 2 tetris" height="50" width="180" /></a>
-<a href="https://processing.org" title="Processing" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" height="50" width="50" /></a>
-<a href="https://shiffman.net/learning/" title="Daniel Shiffman" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/191758?v=4" alt="Shiffman" height="50" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg/feed" title="Shaders - Art of Code" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu-P5fkM6PJNLkqoy6U3y_J0sT9CVH0R_oZIP0Jo=s88-c-k-c0x00ffffff-no-rj" alt="Martijn" height="50" width="50" /></a>
-<a href="https://thebookofshaders.com" title="Book of Shaders" target="blank"><img align="center" src="https://thebookofshaders.com/thumb.png" alt="Book of Shaders" height="50" width="50" /></a>
-<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" title="Patrick Collins" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s88-c-k-c0x00ffffff-no-rj" alt="Patrick Collins" height="50" width="50" /></a>
+<a href="https://www.nand2tetris.org" title="Nand2Tetris" target="blank"><img align="center" src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_415,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png" alt="nand 2 tetris" height="50" width="180" /> </a>
+<a href="https://processing.org" title="Processing" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="Processing" height="50" width="50" /> </a>
+<a href="https://shiffman.net/learning/" title="Daniel Shiffman" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/191758?v=4" alt="Shiffman" height="50" width="50" /> </a>
+<a href="https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg/feed" title="Shaders - Art of Code" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu-P5fkM6PJNLkqoy6U3y_J0sT9CVH0R_oZIP0Jo=s88-c-k-c0x00ffffff-no-rj" alt="Martijn" height="50" width="50" /> </a>
+<a href="https://thebookofshaders.com" title="Book of Shaders" target="blank"><img align="center" src="https://thebookofshaders.com/thumb.png" alt="Book of Shaders" height="50" width="50" /> </a>
+<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" title="Patrick Collins" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s88-c-k-c0x00ffffff-no-rj" alt="Patrick Collins" height="50" width="50" /> </a>
 
 ## Connect with me:
 
-<a href="https://twitter.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dgsmith7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david-gail-smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-gail-smith" height="30" width="40" /></a>
-<a href="https://instagram.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgsmith7" height="30" width="40" /></a>
+<a href="https://twitter.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dgsmith7" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/david-gail-smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-gail-smith" height="30" width="40" /> </a>
+<a href="https://instagram.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgsmith7" height="30" width="40" /> </a>
 
 ## The old-school experience mentioned above:
 
@@ -119,4 +126,4 @@ https://archive.org/details/d361s2-uptime
 And now here is a more recent experience, web-friendly, mobile-ready, and responsive of the same game:
 https://dgsmith7.github.io/sliding-tile-puzzle/
 
-## Treat yourself and others with kindness and compassion. 😎:
+## Treat yourself and others with kindness and compassion. 😎
