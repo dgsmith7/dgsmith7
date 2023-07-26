@@ -23,9 +23,10 @@ See links on the left for my personal website and contact info, especially if yo
 
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" title="Ethereum"> <img src="https://ethereum.org/static/4f10d2777b2d14759feb01c65b2765f7/69ce7/eth-glyph-colored.webp" alt="ethereum" width="40" height="40"/> </a>
 <a href="https://polygon.technology" target="_blank" rel="noreferrer" title="Polygon"> <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/> </a>
-<a href="https://harhat.org" target="_blank" rel="noreferrer" title="Hardhat"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/> </a><a href="https://moralis.io" target="_blank" rel="noreferrer" title="Moralis"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/xi2ibotrclcxf9njqrfm" alt="moralis" width="40" height="40"/> </a>
+<a href="https://harhat.org" target="_blank" rel="noreferrer" title="Hardhat"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="60" height="40"/> </a>
+<a href="https://moralis.io" target="_blank" rel="noreferrer" title="Moralis"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/xi2ibotrclcxf9njqrfm" alt="moralis" width="40" height="40"/> </a>
+<a href="https://alchemy.com" target="_blank" rel="noreferrer" title="Alchemy"> <img src="https://asset.brandfetch.io/idUFOwOm15/idUfyTBC5e.png?updated=1689687857947" alt="alchemy" width="40" height="40"/> </a>
 <a href="https://metamask.io" target="_blank" rel="noreferrer" title="Metamask"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" alt="metamask" width="40" height="40"/> </a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer" title="Wordpress"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://soliditylang.org" target="_blank" rel="noreferrer" title="Solidity"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEKqTxDFyI0s_kylUF73gFRXBqViXmDwZWg&usqp=CAU" alt="solidity" width="25" height="40"/> </a>
 <a href="https://remix-project.org" target="_blank" rel="noreferrer" title="Remix"> <img src="https://remix-project.org/static/media/remi-icon.7b98f159e0a60d36c98bee595cfaba46.svg" alt="remix" width="40" height="40"/> </a>
 <a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer" title="Ganache"> <img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/> </a>
@@ -33,7 +34,7 @@ See links on the left for my personal website and contact info, especially if yo
 <a href="https://www.openzeppelin.com" target="_blank" rel="noreferrer" title="Open Zeppelin"> <img src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png" alt="open zeppelin" width="40" height="40"/> </a>
 <a href="https://chain.link" target="_blank" rel="noreferrer" title="Chainlink"> <img src="https://seeklogo.com/images/C/chainlink-link-logo-FB38A5933B-seeklogo.com.png" alt="firebase" width="40" height="40"/> </a>
 
-### Visual / 3D / Prototyping
+#### Visual / 3D / Prototyping
 
 <a href="https://threejs.org" target="_blank" rel="noreferrer" title="ThreeJS"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three js" width="40" height="40"> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
@@ -70,7 +71,6 @@ See links on the left for my personal website and contact info, especially if yo
 <a href="https://tomcat.apache.org" target="_blank" rel="noreferrer" title="Tomcat"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/> </a>
 <a href="https://maven.apache.org" target="_blank" rel="noreferrer" title="Maven"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYUtSxcmnj-nxImUJNR8jWAufOhjc-BwUlr83yUYM_1iifqv3t0hUJR2VJ_HAnHvhxsU&usqp=CAU" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://intellij-support.jetbrains.com/hc/en-us" target="_blank" rel="noreferrer" title="IntelliJ"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intelli j" width="40" height="40"/> </a>
-height="40"/> </a>
 
 ## Featured Project Repositories:
 
