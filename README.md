@@ -75,7 +75,37 @@ See links on the left for my personal website and contact info, especially if yo
 
 ## Featured Project Repositories:
 
-<!-->
+#### I am currently working on these projects:
+
+<ul>
+<li>
+<a href="https://github.com/dgsmith7/NFT-Contract">NFT Contract for Web3 Course at University</a>
+<p>Solidity Hardhat Node NPM Alchemy Remix Open-Zeppelin</p>
+</li>
+<li>
+<a href="https://github.com/baconbitscollective">Generative Art NFT platform and marketplace</a>
+<p>Solidity Hardhat Node NPM Alchemy Remix Open-Zeppelin JS HTML5 CSS Bootstrap MYSQL Moralis Metamask</p>
+</li>
+<li>
+<a href="https://www.davidgailsmith.com">Revamping and overhauling this - my current website</a>
+<p>Node NPM JS HTML5 CSS Bootstrap MYSQL</p>
+</li>
+</ul>
+
+#### Some cool or fun web projects I have made:
+
+<ul>
+<li>
+<a href="https://github.com/dgsmith7/sliding-tile-puzzle">Sliding Tile Puzzle</a>
+<p>JS HTML5 CSS Bootstrap</p>
+</li>
+<li>
+<a href="https://github.com/dgsmith7/StruttClock">Strutt Epicyclic Clock in THREE JS</a>
+<p>JS HTML5 CSS Three-JS Blender</p>
+</li>
+</ul>
+
+<!--
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)](https://github.com/dgsmith7/sliding-tile-puzzle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Weather.app)](https://github.com/dgsmith7/Weather.app)
@@ -86,21 +116,26 @@ See links on the left for my personal website and contact info, especially if yo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)](https://github.com/dgsmith7/censusBureauDataVis)
 -->
 
-## Here is some more educational or template-related material:
+#### Some boilerplate or educational pieces I have made:
 
-<!-->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=threeJS-simpleBoilerplate)](https://github.com/dgsmith7/threeJS-simpleBoilerplate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=LearningCobol)](https://github.com/dgsmith7/LearningCobol)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Concrete-Abstract-Interface-Demo)](https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=AdventurePartyInheritanceDemo)](https://github.com/dgsmith7/AdventurePartyInheritanceDemo)
-
-## Some Stats about my Github account:
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dgsmith7&count_private=true&show_icons=true)](https://github.com/dgsmith7/#year-list-container)
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7)](https://github.com/dgsmith7/#year-list-container)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgsmith7&layout=compact&langs_count=8)](https://github.com/dgsmith7/#year-list-container)
--->
+<ul>
+<li>
+<a href="https://github.com/dgsmith7/threeJS-simpleBoilerplate">THREE-JS Simple Boilerplate</a>
+<p>JS HTML5 CSS Three-JS</p>
+</li>
+<li>
+<a href="https://github.com/dgsmith7/LearningCobol">COBOL Experiment based on </a><a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
+<p>Cobol</p>
+</li>
+<li>
+<a href="https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo">Inheritance in Java - demo</a>
+<p>Java Intelli-J</p>
+</li>
+<li>
+<a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo">Inheritance in Java - demo</a>
+<p>Java Intelli-J</p>
+</li>
+</ul>
 
 ## Excellent Learning Resources that I recommend:
 
