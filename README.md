@@ -79,15 +79,15 @@ See links on the left for my personal website and contact info, especially if yo
 
 <ul>
 <li>
-<a href="https://github.com/dgsmith7/NFT-Contract">NFT Contract for Web3 Course at University</a>
+<a href="https://github.com/dgsmith7/NFT-Contract" target="_blank">NFT Contract for Web3 Course at University</a>
 <p>Solidity Hardhat Node NPM Alchemy Remix Open-Zeppelin</p>
 </li>
 <li>
-<a href="https://github.com/baconbitscollective">Generative Art NFT platform and marketplace</a>
+<a href="https://github.com/baconbitscollective" target="_blank">Generative Art NFT platform and marketplace</a>
 <p>Solidity Hardhat Node NPM Alchemy Remix Open-Zeppelin JS HTML5 CSS Bootstrap MYSQL Moralis Metamask</p>
 </li>
 <li>
-<a href="https://www.davidgailsmith.com">Revamping and overhauling this - my current website</a>
+<a href="https://www.davidgailsmith.com" target="_blank">Revamping and overhauling this - my current website</a>
 <p>Node NPM JS HTML5 CSS Bootstrap MYSQL</p>
 </li>
 </ul>
@@ -96,43 +96,32 @@ See links on the left for my personal website and contact info, especially if yo
 
 <ul>
 <li>
-<a href="https://github.com/dgsmith7/sliding-tile-puzzle">Sliding Tile Puzzle</a>
+<a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="_blank">Sliding Tile Puzzle</a>
 <p>JS HTML5 CSS Bootstrap</p>
 </li>
 <li>
-<a href="https://github.com/dgsmith7/StruttClock">Strutt Epicyclic Clock in THREE JS</a>
+<a href="https://github.com/dgsmith7/StruttClock" target="_blank">Strutt Epicyclic Clock in THREE JS</a>
 <p>JS HTML5 CSS Three-JS Blender</p>
 </li>
 </ul>
-
-<!--
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=sliding-tile-puzzle)](https://github.com/dgsmith7/sliding-tile-puzzle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=Weather.app)](https://github.com/dgsmith7/Weather.app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=StruttClock)](https://github.com/dgsmith7/StruttClock)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=ParametricAurora)](https://github.com/dgsmith7/ParametricAurora)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=machine-demo)](https://github.com/dgsmith7/machine-demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=dataToTerrain3d)](https://github.com/dgsmith7/dataToTerrain3d)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dgsmith7&repo=censusBureauDataVis)](https://github.com/dgsmith7/censusBureauDataVis)
--->
 
 #### Some boilerplate or educational pieces I have made:
 
 <ul>
 <li>
-<a href="https://github.com/dgsmith7/threeJS-simpleBoilerplate">THREE-JS Simple Boilerplate</a>
+<a href="https://github.com/dgsmith7/threeJS-simpleBoilerplate" target="_blank">THREE-JS Simple Boilerplate</a>
 <p>JS HTML5 CSS Three-JS</p>
 </li>
 <li>
-<a href="https://github.com/dgsmith7/LearningCobol">COBOL Experiment based on </a><a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
+<a href="https://github.com/dgsmith7/LearningCobol" target="_blank">COBOL Experiment based on </a><a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
 <p>Cobol</p>
 </li>
 <li>
-<a href="https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo">Inheritance in Java - demo</a>
+<a href="https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo" target="_blank">Drones - Inheritance in Java - demo</a>
 <p>Java Intelli-J</p>
 </li>
 <li>
-<a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo">Inheritance in Java - demo</a>
+<a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo" target="_blank">Adventure Party - Inheritance in Java - demo</a>
 <p>Java Intelli-J</p>
 </li>
 </ul>
