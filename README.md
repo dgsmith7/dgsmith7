@@ -96,15 +96,15 @@ See links on the left for my personal website and contact info, especially if yo
 
 <ul>
 <li>
-<a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="_blank">Sliding Tile Puzzle Deployment</a>
+<a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="blank">Sliding Tile Puzzle Deployment</a>
 </br>
-<a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="_blank">Sliding Tile Puzzle Repo</a>
+<a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="blank">Sliding Tile Puzzle Repo</a>
 <p>JS HTML5 CSS Bootstrap</p>
 </li>
 <li>
-<a href="https://dgsmith7.github.io/StruttClock/" target="_blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
+<a href="https://dgsmith7.github.io/StruttClock/" target="blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
 </br>
-<a href="https://github.com/dgsmith7/StruttClock" target="_blank">Strutt Epicyclic Clock in THREE JS Repo</a>
+<a href="https://github.com/dgsmith7/StruttClock" target="blank">Strutt Epicyclic Clock in THREE JS Repo</a>
 <p>JS HTML5 CSS Three-JS Blender</p>
 </li>
 </ul>
@@ -113,9 +113,9 @@ See links on the left for my personal website and contact info, especially if yo
 
 <ul>
 <li>
-<a href="https://dgsmith7.github.io/threeJS-simpleBoilerplate/" target="_blank">THREE-JS Simple Boilerplate Deployment</a>
+<a href="https://dgsmith7.github.io/threeJS-simpleBoilerplate/" target="blank">THREE-JS Simple Boilerplate Deployment</a>
 </br>
-<a href="https://github.com/dgsmith7/threeJS-simpleBoilerplate" target="_blank">THREE-JS Simple Boilerplate Repo</a>
+<a href="https://github.com/dgsmith7/threeJS-simpleBoilerplate" target="blank">THREE-JS Simple Boilerplate Repo</a>
 <p>JS HTML5 CSS Three-JS</p>
 </li>
 <li>
