@@ -119,7 +119,7 @@ See links on the left for my personal website and contact info, especially if yo
 <p>JS HTML5 CSS Three-JS</p>
 </li>
 <li>
-<a href="https://github.com/dgsmith7/LearningCobol" target="_blank">COBOL Experiment based on </a><a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
+<a href="https://github.com/dgsmith7/LearningCobol" target="_blank">COBOL Experiment </a>based on <a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
 <p>Cobol</p>
 </li>
 <li>
