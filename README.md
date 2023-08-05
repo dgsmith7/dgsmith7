@@ -21,7 +21,7 @@ See links on the left for my personal website and contact info, especially if yo
 
 #### Web3
 
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" title="Ethereum"> <img src="https://ethereum.org/static/650e1a3295e7a822db63fc8c673bf48d/1be1b/eth-diamond-rainbow.webp" alt="ethereum" width="40" height="40"/> </a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" title="Ethereum"> <img src="https://ethereum.org/static/650e1a3295e7a822db63fc8c673bf48d/1be1b/eth-diamond-rainbow.webp" alt="ethereum" width="20" height="40"/> </a>
 <a href="https://polygon.technology" target="_blank" rel="noreferrer" title="Polygon"> <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/> </a>
 <a href="https://harhat.org" target="_blank" rel="noreferrer" title="Hardhat"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="60" height="40"/> </a>
 <a href="https://moralis.io" target="_blank" rel="noreferrer" title="Moralis"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/xi2ibotrclcxf9njqrfm" alt="moralis" width="40" height="40"/> </a>
