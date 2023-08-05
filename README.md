@@ -96,16 +96,22 @@ See links on the left for my personal website and contact info, especially if yo
 
 <ul>
 <li>
-<a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="blank">Sliding Tile Puzzle Deployment</a>
+<a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="_blank">Sliding Tile Puzzle Deployment</a>
 </br>
-<a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="blank">Sliding Tile Puzzle Repo</a>
+<a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="_blank">Sliding Tile Puzzle Repo</a>
 <p>JS HTML5 CSS Bootstrap</p>
 </li>
 <li>
-<a href="https://dgsmith7.github.io/StruttClock/" target="blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
+<a href="https://dgsmith7.github.io/StruttClock/" target="_blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
 </br>
-<a href="https://github.com/dgsmith7/StruttClock" target="blank">Strutt Epicyclic Clock in THREE JS Repo</a>
+<a href="https://github.com/dgsmith7/StruttClock" target="_blank">Strutt Epicyclic Clock in THREE JS Repo</a>
 <p>JS HTML5 CSS Three-JS Blender</p>
+</li>
+<li>
+<a href="https://dgsmith7.github.io/ParametricAurora/" target="_blank">Parametric Aurora in THREE JS Deployment</a>
+</br>
+<a href="https://github.com/dgsmith7/ParametricAurora" target="_blank">Parametric Aurora in THREE JS Repo</a>
+<p>JS HTML5 CSS Three-JS</p>
 </li>
 </ul>
 
