@@ -99,8 +99,8 @@ See links on the left for my personal website and contact info, especially if yo
 <a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="_blank">Sliding Tile Puzzle Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="_blank">Sliding Tile Puzzle Repo</a>
-  Made with JS HTML5 CSS Bootstrap
 </li>
+  Made with JS HTML5 CSS Bootstrap
 <li>
 <a href="https://dgsmith7.github.io/StruttClock/" target="_blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
 </br>
