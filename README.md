@@ -97,6 +97,7 @@ See links on the left for my personal website and contact info, especially if yo
 <ul>
 <li>
 An information or product demo using Three-JS - subject: the Apollo Lunar Module  
+</br>
 <a href="https://apollo-lunar-lander-threejs-demo-gz7ed.ondigitalocean.app" target="_blank">Apollo Lunar Lander Deployment</a>
 </br>
 <a href="https://apollo-lunar-lander-threejs-demo-gz7ed.ondigitalocean.app" target="_blank">Apollo Lunar Lander Code</a>
@@ -104,6 +105,7 @@ An information or product demo using Three-JS - subject: the Apollo Lunar Module
   Made with JS HTML5 CSS Bootstrap Three-JS  
 <li>
 A simple puzzle game inspired by the sliding tile game on the original Mac computer  
+</br>
 <a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="_blank">Sliding Tile Puzzle Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="_blank">Sliding Tile Puzzle Code</a>
@@ -111,6 +113,7 @@ A simple puzzle game inspired by the sliding tile game on the original Mac compu
   Made with JS HTML5 CSS Bootstrap  
 <li>
 An interesting Three-JS working replica of an amazing clock  
+</br>
 <a href="https://dgsmith7.github.io/StruttClock/" target="_blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/StruttClock" target="_blank">Strutt Epicyclic Clock in THREE JS Code</a>
@@ -118,6 +121,7 @@ An interesting Three-JS working replica of an amazing clock
   JS HTML5 CSS Three-JS Blender  
 <li>
 An semi-psychedelic and cool Three-JS shape shift animation for you to slow down and chill to  
+</br>
 <a href="https://dgsmith7.github.io/ParametricAurora/" target="_blank">Parametric Aurora in THREE JS Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/ParametricAurora" target="_blank">Parametric Aurora in THREE JS Code</a>
@@ -129,24 +133,28 @@ An semi-psychedelic and cool Three-JS shape shift animation for you to slow down
 
 <ul>
 <li>
-A simple Three-JS boiler plate for anyone to re-use as desired
+A simple Three-JS boiler plate for anyone to re-use as desired  
+</br>
 <a href="https://dgsmith7.github.io/threeJS-simpleBoilerplate/" target="blank">THREE-JS Simple Boilerplate Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/threeJS-simpleBoilerplate" target="blank">THREE-JS Simple Boilerplate Repo</a>
 </li>
   JS HTML5 CSS Three-JS
 <li>
-A COBOL-based implementation of the "Assembler" project from Nand2Tetris
+A COBOL-based implementation of the "Assembler" project from Nand2Tetris  
+</br>
 <a href="https://github.com/dgsmith7/LearningCobol" target="_blank">COBOL Experiment </a>based on <a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
 <p>Cobol</p>
 </li>
 <li>
-Java-based demo of inheritance
+Java-based demo of inheritance  
+</br>
 <a href="https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo" target="_blank">Drones - Inheritance in Java - demo</a>
 <p>Java Intelli-J</p>
 </li>
 <li>
-Java-based demo of inheritance
+Java-based demo of inheritance  
+</br>
 <a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo" target="_blank">Adventure Party - Inheritance in Java - demo</a>
 <p>Java Intelli-J</p>
 </li>
