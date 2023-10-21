@@ -87,7 +87,7 @@ See links on the left for my personal website and contact info, especially if yo
 <p>Solidity Hardhat Node NPM Alchemy Remix Open-Zeppelin JS HTML5 CSS Bootstrap MYSQL Moralis Metamask</p>
 </li>
 <li>
-<a href="https://www.davidgailsmith.com" target="_blank">Revamping and overhauling this - my current website</a>
+<a href="https://www.davidgailsmith.com" target="_blank">Revamping and overhauling my current website</a>
 <p>Node NPM JS HTML5 CSS Bootstrap MYSQL</p>
 </li>
 </ul>
@@ -99,7 +99,8 @@ See links on the left for my personal website and contact info, especially if yo
 <a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="_blank">Sliding Tile Puzzle Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="_blank">Sliding Tile Puzzle Repo</a>
-<p>JS HTML5 CSS Bootstrap</p>
+</br>
+<p>Made with JS HTML5 CSS Bootstrap</p>
 </li>
 <li>
 <a href="https://dgsmith7.github.io/StruttClock/" target="_blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
