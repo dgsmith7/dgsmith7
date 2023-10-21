@@ -144,20 +144,19 @@ A simple Three-JS boiler plate for anyone to re-use as desired
 A COBOL-based implementation of the "Assembler" project from Nand2Tetris  
 </br>
 <a href="https://github.com/dgsmith7/LearningCobol" target="_blank">COBOL Experiment </a>based on <a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
-<p>Cobol</p>
 </li>
+  Cobol  
 <li>
 Java-based demo of inheritance  
 </br>
 <a href="https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo" target="_blank">Drones - Inheritance in Java - demo</a>
-<p>Java Intelli-J</p>
 </li>
-<li>
+  Java Intelli-J<li>
 Java-based demo of inheritance  
 </br>
 <a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo" target="_blank">Adventure Party - Inheritance in Java - demo</a>
-<p>Java Intelli-J</p>
 </li>
+  Java Intelli-J  
 </ul>
 
 ## Excellent Learning Resources that I recommend:
