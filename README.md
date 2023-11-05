@@ -98,9 +98,9 @@ See links on the left for my personal website and contact info, especially if yo
 <li>
 An information or product demo using Three-JS - subject: the Apollo Lunar Module  
 </br>
-<a href="https://apollo-lunar-lander-threejs-demo-gz7ed.ondigitalocean.app" target="_blank">Apollo Lunar Lander Deployment</a>
+<a href="https://lunar-lander-app-ltyg5.ondigitalocean.app" target="_blank">Apollo Lunar Lander Deployment</a>
 </br>
-<a href="https://apollo-lunar-lander-threejs-demo-gz7ed.ondigitalocean.app" target="_blank">Apollo Lunar Lander Code</a>
+<a href="https://github.com/dgsmith7/LunarLander" target="_blank">Apollo Lunar Lander Code</a>
 </li>
   Made with JS HTML5 CSS Bootstrap Three-JS  
 <li>
