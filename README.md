@@ -79,7 +79,7 @@ See links on the left for my personal website and contact info, especially if yo
 
 <ul>
 <li>
-<a href="https://github.com/dgsmith7/NFT-Contract" target="_blank">NFT Contract for Web3 Course at University</a>
+<a href="https://www.dgs-creative.com" target="_blank">Continuing to improve my recently-built personal NFT site on the Arbitrum blokchain</a>
 <p>Solidity Hardhat Node NPM Alchemy Remix Open-Zeppelin</p>
 </li>
 <li>
@@ -87,7 +87,7 @@ See links on the left for my personal website and contact info, especially if yo
 <p>Solidity Hardhat Node NPM Alchemy Remix Open-Zeppelin JS HTML5 CSS Bootstrap MYSQL Moralis Metamask</p>
 </li>
 <li>
-<a href="https://www.davidgailsmith.com" target="_blank">Revamping and overhauling my current website</a>
+<a href="https://www.davidgailsmith.com" target="_blank">Adding more features to my personal website that I recently overhauled</a>
 <p>Node NPM JS HTML5 CSS Bootstrap MYSQL</p>
 </li>
 </ul>
