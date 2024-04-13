@@ -101,8 +101,8 @@ An information or product demo using Three-JS - subject: the Apollo Lunar Module
 <a href="https://lunar-lander-app-ltyg5.ondigitalocean.app" target="_blank">Apollo Lunar Lander Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/LunarLander" target="_blank">Apollo Lunar Lander Code</a>
-</li> -->
-  Made with JS HTML5 CSS Bootstrap Three-JS  
+</li> 
+   Made with JS HTML5 CSS Bootstrap Three-JS   -->
 <li>
 A simple puzzle game inspired by the sliding tile game on the original Mac computer  
 </br>
