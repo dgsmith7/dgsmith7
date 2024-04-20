@@ -95,14 +95,14 @@ See links on the left for my personal website and contact info, especially if yo
 #### Some cool or fun web projects I have made:
 
 <ul>
-<!-- <li>
+<li>
 An information or product demo using Three-JS - subject: the Apollo Lunar Module  
 </br>
-<a href="https://lunar-lander-app-ltyg5.ondigitalocean.app" target="_blank">Apollo Lunar Lander Deployment</a>
-</br>
+<!-- a href="https://lunar-lander-app-ltyg5.ondigitalocean.app" target="_blank">Apollo Lunar Lander Deployment</a >
+</br -->
 <a href="https://github.com/dgsmith7/LunarLander" target="_blank">Apollo Lunar Lander Code</a>
 </li> 
-   Made with JS HTML5 CSS Bootstrap Three-JS   -->
+   Made with JS HTML5 CSS Bootstrap Three-JS
 <li>
 A simple puzzle game inspired by the sliding tile game on the original Mac computer  
 </br>
@@ -119,6 +119,12 @@ An interesting Three-JS working replica of an amazing clock
 <a href="https://github.com/dgsmith7/StruttClock" target="_blank">Strutt Epicyclic Clock in THREE JS Code</a>
 </li>
   JS HTML5 CSS Three-JS Blender  
+<li>
+An small python script of Towers of Hanoi game  
+</br>
+<a href="https://github.com/dgsmith7/towers-of-hanoi" target="_blank">Towers of Hanoi game in Python</a>
+</li>
+  Python
 <li>
 An semi-psychedelic and cool Three-JS shape shift animation for you to slow down and chill to  
 </br>
@@ -146,14 +152,14 @@ A COBOL-based implementation of the "Assembler" project from Nand2Tetris
 <a href="https://github.com/dgsmith7/LearningCobol" target="_blank">COBOL Experiment </a>based on <a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
 </li>
   Cobol  
-<li>
+<!-- li>
 Java-based demo of inheritance  
 </br>
 <a href="https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo" target="_blank">Drones - Inheritance in Java - demo</a>
 </li>
   Java Intelli-J<li>
 Java-based demo of inheritance  
-</br>
+</br  -->
 <a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo" target="_blank">Adventure Party - Inheritance in Java - demo</a>
 </li>
   Java Intelli-J  
