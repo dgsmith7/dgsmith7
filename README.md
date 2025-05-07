@@ -282,3 +282,5 @@ And now here is a more recent experience, web-friendly, mobile-ready, and respon
 https://dgsmith7.github.io/sliding-tile-puzzle/ -->
 
 ## Treat yourself and others with kindness and compassion. 😎
+
+   <img src="assets/face.gif" />
