@@ -35,18 +35,17 @@ I'm a freelance Full Stack Developer and Educator with a passion for creating in
 <br>
 <br>
 
-  <img src="https://skillicons.dev/icons?i=ipfs" />
   <img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,scikitlearn&perline=7" />
   <br/>
 <br/>
 
-<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="55" height="55"/>
-<img src="https://asset.brandfetch.io/idUFOwOm15/idUfyTBC5e.png?updated=1689687857947" alt="alchemy" width="55" height="55"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEKqTxDFyI0s_kylUF73gFRXBqViXmDwZWg&usqp=CAU" alt="solidity" width="25" height="40"/>
-<img src="https://cdn-1.webcatalog.io/catalog/remix-ide/remix-ide-icon-filled-256.webp?v=1714775654961" alt="remix" width="40" height="40"/>
-<img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/286025/pinata.svg" alt="pinata" width="40" height="40"/>
-<img src="https://images.seeklogo.com/logo-png/42/1/openzeppelin-logo-png_seeklogo-426729.png" alt="open zeppelin" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=ipfs" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641721533244/EDjMSBz-F.png" alt="hardhat" width="55" height="55"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEKqTxDFyI0s_kylUF73gFRXBqViXmDwZWg&usqp=CAU" alt="solidity" width="35" height="55"/>
+<img src="https://cdn-1.webcatalog.io/catalog/remix-ide/remix-ide-icon-filled-256.webp?v=1714775654961" alt="remix" width="55" height="55"/>
+<img src="https://trufflesuite.com/assets/logo.png" alt="ganache" width="55" height="55"/>
+<img src="https://www.svgrepo.com/show/286025/pinata.svg" alt="pinata" width="55" height="55"/>
+<img src="https://avatars.githubusercontent.com/u/20820676?s=200&v=4" alt="open zeppelin" width="55" height="55"/> 
 <br/>
 <br/>
 
@@ -95,6 +94,8 @@ I'm a freelance Full Stack Developer and Educator with a passion for creating in
 <path d="M13.0191 18.9482V20.5H10.98V18.9482H13.0191Z" fill="#C0C4CD"/>
 <path d="M8.05518 18.7853L10.9816 20.4992V18.9474L10.7195 18.0077L8.05518 18.7853ZM15.9456 18.7853L13.0191 20.4992V18.9474L13.2811 18.0077L15.9456 18.7853Z" fill="#E7EBF6"/>
 </svg>
+<img src="https://asset.brandfetch.io/idUFOwOm15/idUfyTBC5e.png?updated=1689687857947" alt="alchemy" width="55" height="55"/>
+
 <br/>
 <br/>
    <img src="https://skillicons.dev/icons?i=java,ruby" />
