@@ -6,6 +6,9 @@ I'm a freelance Full Stack Developer and Educator with a passion for creating in
 - Bachelor of Arts in Creative Computation 2017 from Southern Methodist University, Dallas, TX.
 - Bachelor of Fine Arts in Art 2018 from Southern Methodist University, Dallas, TX.
 
+<a href="https://www.davidgailsmith.com" target="_blank">Art portfolio website<a>
+<a href="https://www.dgs-creative.com" target="_blank">Generative Art NFT Mint on Arbitrum 1</a>
+
 ## Languages and Tools:
 
 <br>
