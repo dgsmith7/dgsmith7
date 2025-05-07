@@ -1,14 +1,37 @@
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dgsmith7&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Contribution Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+</div>
+
+<hr>
+
 <!--img style="z-index: -1; position: absolute; top: 0; left: 0" alt="Awesome GitHub Profile Readme" src="assets/face.gif"-->
 
-## Some facts about me:
+<!-- ## Some facts about me:
 
 I write code because I enjoy it, and it fulfills my need to be creative. It is something that comes naturally to me and an activity that I have enjoyed since I was in high school (a long time). I began writing in Apple BASIC on an Apple //c in 1985. For an old-school 80s experience GOTO the bottom of this page. Then I spent a couple of decades flying helicopters in the Army and the Coast Guard. And then I got an Art degree. Now I write code, teach, and make art.
 
 I do full-stack web development, build creative projects (usually with graphics and animation), Web3 projects, and generally pursue my interests and inexhaustible thirst for new knowledge. Luckily the tech world provides and endless horizon of things to learn, which suits my life-long-learner disposition very well. I also enjoy teaching others, and I do that at a University and as a private tutor.
 
-See links on the left for my personal website and contact info, especially if you are interested in a custom project or private tutoring. I accept certain cryptocurrencies for payment if you desire, and of course, normal fiat currency. Contact me for details and discussion.
+See links on the left for my personal website and contact info, especially if you are interested in a custom project or private tutoring. I accept certain cryptocurrencies for payment if you desire, and of course, normal fiat currency. Contact me for details and discussion. -->
 
-## Here are some of the tools I use for my projects:
+<!-- ## Here are some of the tools I use for my projects:
 
 #### General tools
 
@@ -96,50 +119,50 @@ See links on the left for my personal website and contact info, especially if yo
 
 <ul>
 <li>
-An information or product demo using Three-JS - subject: the Apollo Lunar Module  
-</br>
+An information or product demo using Three-JS - subject: the Apollo Lunar Module
+</br> -->
 <!-- a href="https://lunar-lander-app-ltyg5.ondigitalocean.app" target="_blank">Apollo Lunar Lander Deployment</a >
 </br -->
-<a href="https://github.com/dgsmith7/LunarLander" target="_blank">Apollo Lunar Lander Code</a>
-</li> 
+<!-- <a href="https://github.com/dgsmith7/LunarLander" target="_blank">Apollo Lunar Lander Code</a>
+</li>
    Made with JS HTML5 CSS Bootstrap Three-JS
 <li>
-A simple puzzle game inspired by the sliding tile game on the original Mac computer  
+A simple puzzle game inspired by the sliding tile game on the original Mac computer
 </br>
 <a href="https://dgsmith7.github.io/sliding-tile-puzzle/" target="_blank">Sliding Tile Puzzle Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/sliding-tile-puzzle" target="_blank">Sliding Tile Puzzle Code</a>
 </li>
-  Made with JS HTML5 CSS Bootstrap  
+  Made with JS HTML5 CSS Bootstrap
 <li>
-An interesting Three-JS working replica of an amazing clock  
+An interesting Three-JS working replica of an amazing clock
 </br>
 <a href="https://dgsmith7.github.io/StruttClock/" target="_blank">Strutt Epicyclic Clock in THREE JS Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/StruttClock" target="_blank">Strutt Epicyclic Clock in THREE JS Code</a>
 </li>
-  JS HTML5 CSS Three-JS Blender  
+  JS HTML5 CSS Three-JS Blender
 <li>
-An small python script of Towers of Hanoi game  
+An small python script of Towers of Hanoi game
 </br>
 <a href="https://github.com/dgsmith7/towers-of-hanoi" target="_blank">Towers of Hanoi game in Python</a>
 </li>
   Python
 <li>
-An semi-psychedelic and cool Three-JS shape shift animation for you to slow down and chill to  
+An semi-psychedelic and cool Three-JS shape shift animation for you to slow down and chill to
 </br>
 <a href="https://dgsmith7.github.io/ParametricAurora/" target="_blank">Parametric Aurora in THREE JS Deployment</a>
 </br>
 <a href="https://github.com/dgsmith7/ParametricAurora" target="_blank">Parametric Aurora in THREE JS Code</a>
 </li>
-  JS HTML5 CSS Three-JS  
+  JS HTML5 CSS Three-JS
 </ul>
 
 #### Some boilerplate or educational pieces I have made:
 
 <ul>
 <li>
-A simple Three-JS boiler plate for anyone to re-use as desired  
+A simple Three-JS boiler plate for anyone to re-use as desired
 </br>
 <a href="https://dgsmith7.github.io/threeJS-simpleBoilerplate/" target="blank">THREE-JS Simple Boilerplate Deployment</a>
 </br>
@@ -147,22 +170,22 @@ A simple Three-JS boiler plate for anyone to re-use as desired
 </li>
   JS HTML5 CSS Three-JS
 <li>
-A COBOL-based implementation of the "Assembler" project from Nand2Tetris  
+A COBOL-based implementation of the "Assembler" project from Nand2Tetris
 </br>
 <a href="https://github.com/dgsmith7/LearningCobol" target="_blank">COBOL Experiment </a>based on <a href="https://www.nand2tetris.org">Nand 2 Tetris</a>
 </li>
-  Cobol  
+  Cobol   -->
 <!-- li>
-Java-based demo of inheritance  
+Java-based demo of inheritance
 </br>
 <a href="https://github.com/dgsmith7/Concrete-Abstract-Interface-Demo" target="_blank">Drones - Inheritance in Java - demo</a>
 </li>
   Java Intelli-J<li>
-Java-based demo of inheritance  
+Java-based demo of inheritance
 </br  -->
-<a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo" target="_blank">Adventure Party - Inheritance in Java - demo</a>
+<!-- <a href="https://github.com/dgsmith7/AdventurePartyInheritanceDemo" target="_blank">Adventure Party - Inheritance in Java - demo</a>
 </li>
-  Java Intelli-J  
+  Java Intelli-J
 </ul>
 
 ## Excellent Learning Resources that I recommend:
@@ -178,15 +201,15 @@ Java-based demo of inheritance
 
 <a href="https://twitter.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dgsmith7" height="30" width="40" /> </a>
 <a href="https://linkedin.com/in/david-gail-smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-gail-smith" height="30" width="40" /> </a>
-<a href="https://instagram.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgsmith7" height="30" width="40" /> </a>
+<a href="https://instagram.com/dgsmith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgsmith7" height="30" width="40" /> </a> -->
 
-## The old-school experience mentioned above:
+<!-- ## The old-school experience mentioned above:
 
 Here is an archived link to something I wrote when I was 15. Visit the link, then wait for emulator
 to boot the Apple //e virtual machine (just like the real Apple //c). Then choose 1 on the main menu and 4 on the
 next menu to launch "Enigma". Turn on some 80s music from a cassette player in the background to get the full effect:
 https://archive.org/details/d361s2-uptime
 And now here is a more recent experience, web-friendly, mobile-ready, and responsive of the same game:
-https://dgsmith7.github.io/sliding-tile-puzzle/
+https://dgsmith7.github.io/sliding-tile-puzzle/ -->
 
 ## Treat yourself and others with kindness and compassion. 😎
