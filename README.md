@@ -6,9 +6,9 @@ I'm a freelance Full Stack Developer and Educator with a passion for creating in
 - Bachelor of Arts in Creative Computation 2017 from Southern Methodist University, Dallas, TX.
 - Bachelor of Fine Arts in Art 2018 from Southern Methodist University, Dallas, TX.
 
-<a href="https://www.davidgailsmith.com" target="_blank">Art portfolio website<a>
+<a href="https://www.davidgailsmith.com" target="_blank"  rel="noopener noreferrer">Art portfolio website<a>
 <br/>
-<a href="https://www.dgs-creative.com" target="_blank">Generative Art NFT Mint on Arbitrum 1</a>
+<a href="https://www.dgs-creative.com" target="_blank"  rel="noopener noreferrer">Generative Art NFT Mint on Arbitrum 1</a>
 
 ## Languages and Tools:
 
@@ -80,8 +80,8 @@ I'm a freelance Full Stack Developer and Educator with a passion for creating in
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dgsmith7&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
   <br/>
-  <!-- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Contribution Stats" />
-  <br/> -->
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dgsmith7&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Contribution Stats" />
+  <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dgsmith7&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
 
