@@ -1,6 +1,6 @@
 ## Welcome:
 
-I'm a freelance Full Stack Developer and Educator with a passion for creating interactive web applications, computer graphics animations, and exploring the world of Web3. I always tinker around with hardware and love to learn new things. I always have a new project underway.
+I'm a freelance Full Stack Developer and Educator with a passion for creating interactive web applications, computer graphics animations, and exploring the world of Web3. I always have a new project underway.I also tinker around with hardware and love to learn new things.
 
 - Master of Science in Software Engieering 2025 from Southern Methodist University, Dallas, TX.
 - Bachelor of Arts in Creative Computation 2017 from Southern Methodist University, Dallas, TX.
